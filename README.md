@@ -1,2 +1,1 @@
-hello world
-xihuanni
+xiguahai炒饭
