@@ -1,2 +1,2 @@
-# videosite
-django学习小项目
+hello world
+
